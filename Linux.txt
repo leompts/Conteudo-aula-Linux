@@ -1,0 +1,12 @@
+LINUX: é o kernel ou núcleo do sistema operacional, faz a integração entre hardware e sistema operacional. desenvolvido por diversas pessoas e empresas pelo mundo, existindo varias versões do kernel e vários sistemas operacionais criados baseados no linux.
+
+> multitarefa/multiusuario
+
+> shell (linha de comando)
+
+
+distribuição ou "distru": personalização do sistema operacional baseado no Linux. tipos: seg info, servidor, pessoal, forense, etc. Ex: Ubuntu (pessoal), Debian, Suse, Fedeora, Red hat (corporativa), Kali
+
+
+UBUNTU: sistema operacional código aberto desenvolvido pela Canonical, baseado no Linux, muito aceito pela comunidade.
+
